@@ -1,0 +1,4 @@
+.surgeignore
+
+# Dependency directories
+node_modules/
