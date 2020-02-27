@@ -25,7 +25,10 @@ h1 {
 	color: #9561e2;
 }
 p {
-	bottom: 0;
+	line-height: 1;
+	display: flex;
+	align-items: center;
+	margin: 0;
 }
 a,
 a:visited {
